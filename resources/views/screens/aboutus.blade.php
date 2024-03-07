@@ -50,7 +50,7 @@
                     <div class="border border-sky-400 mx-4 my-3 p-3 bg-sky-600">
                         <h1 class="text-xl font-mono mb-1">- Mayke Souza -</h1>
                         <div class="flex flex-row">
-                        <img src="riff.jpg" alt="" height="auto" width="30%" class="rounded-3xl">
+                        <img src="mayke.png" alt="" height="auto" width="30%" class="rounded-3xl">
                             <div class="flex-col">
                                 <p class="mx-3 text-left">Lider do Front-End. Tenho conhecimento básico nas linguagems Java, JavaScript, TypeScript e PHP. Me sinto confortável
                                     mechendo no Front-End, especialmente com CSS puro e Tailwind CSS. Já fiz projetos utilizando Frameworks como React, Angular e React Native.
@@ -65,7 +65,7 @@
                     <div class="border border-sky-400 mx-4 my-3 p-3 bg-sky-600">
                         <h1 class="text-xl font-mono mb-1">- Luís Fellipe -</h1>
                         <div class="flex flex-row">
-                        <img src="riff.jpg" alt="" height="auto" width="30%" class="rounded-3xl">
+                        <img src="luis.jpg" alt="" height="auto" width="30%" class="rounded-3xl">
                             <div class="flex-col">
                                 <p class="mx-3 text-left">Desenvolvedor Web e Mobile. Eu possuo conhecimentos para desenvolvimento de páginas Web utilizando HTML, CSS, Tailwind
                                     CSS, JavaScript, TypeScript junto de frameworks como React e Angular. Também para desenvolver aplicações mobile utilizando React Native com 
@@ -81,7 +81,7 @@
                     <div class="border border-sky-400 mx-4 my-3 p-3 bg-indigo-600">
                         <h1 class="text-xl font-mono mb-1">- Igor Rocha -</h1>
                         <div class="flex flex-row">
-                        <img src="riff.jpg" alt="" height="auto" width="30%" class="rounded-3xl">
+                        <img src="igor.png" alt="" height="auto" width="30%" class="rounded-3xl"><a href="https://github.com/IgorRM15"></a></img>
                         <div class="flex-col">
                             <p class="mx-3 text-left">Full-Stack do grupo, Dev-Ops. Sei fazer Expo, React, Node.JS, HTML, CSS, JavaScript, Angular,
                                 PHP e MySQL.
@@ -106,7 +106,7 @@
                                 <p class="mx-3 mt-3 text-left">Fora da área de programação, eu gosto de ler, tocar músicas em meu violão e cantar.
                                 </p>
                             </div>
-                        <img src="riff.jpg" alt="" height="auto" width="30%" class="rounded-3xl">
+                        <img src="jonathan.jpg" alt="" height="auto" width="30%" class="rounded-3xl">
                         </div>
                     </div>
 
@@ -120,7 +120,7 @@
                                 <p class="mx-3 mt-3 text-left">Fora da área de programação, Eu fazia nadação como hobby, gosto de ler e sou um apreciador de música em geral.
                                 </p>
                             </div>
-                        <img src="riff.jpg" alt="" height="auto" width="30%" class="rounded-3xl">
+                        <img src="joao.png" alt="" height="auto" width="30%" class="rounded-3xl">
                         </div>
                     </div>
 
@@ -129,14 +129,13 @@
                         <div class="flex flex-row">
                             <div class="flex-col">
                                 <p class="mx-3 text-left">Gerente e Lider da CODETATIO. Lidero tanto o Front-End quanto o Back-End. Eu tenho conhecimentos referente a HTML, CSS,
-                                    JavaScript, TypeScript, PHP, sei utilizar Frameworks como React e React Native, também sei coisas referente ao MongoDB e Firebase além de fazer
+                                    Node.JS, TypeScript, Gol, sei utilizar Frameworks como React e React Native, também sei coisas referente ao MongoDB e Firebase além de fazer
                                     os conceitos iniciais do projeto e o cronograma para todos os membros.
                                 </p>
-                                <p class="mx-3 mt-3 text-left">Fora da área de programação, eu já utilizei editores de vídeo e audio para fazer vídeos para o Youtube como hobby e 
-                                    jogo vídeo games no meu tempo livre.
+                                <p class="mx-3 mt-3 text-left">Fora da área de programação, eu amo cozinhar, ler, ouvir música e sou Barman em tempo livre.
                                 </p>
                             </div>
-                        <img src="riff.jpg" alt="" height="auto" width="30%" class="rounded-3xl">
+                        <img src="jhonas.png" alt="" height="auto" width="30%" class="rounded-3xl">
                         </div>
                     </div>
                 </div>
