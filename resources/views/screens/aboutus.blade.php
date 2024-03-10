@@ -50,8 +50,9 @@
                     <div class="border border-sky-400 mx-4 my-3 p-3 bg-sky-600">
                         <h1 class="text-xl font-mono mb-1">- Mayke Souza -</h1>
                         <div class="flex flex-row">
-                        <img src="mayke.png" alt="" height="auto" width="30%" class="rounded-3xl">
-                            <div class="flex-col">
+                                <img src="mayke.png" alt="" height="auto" width="100%" class="rounded-3xl max-w-48 max-h-48">
+
+                            <div class="flex-col ml-3 p-3 bg-sky-950 border-4 border-sky-400 rounded-md">
                                 <p class="mx-3 text-left">Lider do Front-End. Tenho conhecimento básico nas linguagems Java, JavaScript, TypeScript e PHP. Me sinto confortável
                                     mechendo no Front-End, especialmente com CSS puro e Tailwind CSS. Já fiz projetos utilizando Frameworks como React, Angular e React Native.
                                 </p>
@@ -65,8 +66,8 @@
                     <div class="border border-sky-400 mx-4 my-3 p-3 bg-sky-600">
                         <h1 class="text-xl font-mono mb-1">- Luís Fellipe -</h1>
                         <div class="flex flex-row">
-                        <img src="luis.jpg" alt="" height="auto" width="30%" class="rounded-3xl">
-                            <div class="flex-col">
+                        <img src="luis.jpg" alt="" height="auto" width="100%" class="rounded-3xl max-w-48 max-h-48">
+                            <div class="flex-col ml-3 p-3 bg-sky-950 border-4 border-sky-400 rounded-md">
                                 <p class="mx-3 text-left">Desenvolvedor Web e Mobile. Eu possuo conhecimentos para desenvolvimento de páginas Web utilizando HTML, CSS, Tailwind
                                     CSS, JavaScript, TypeScript junto de frameworks como React e Angular. Também para desenvolver aplicações mobile utilizando React Native com 
                                     TypeScript e StyleSheets.
@@ -81,8 +82,8 @@
                     <div class="border border-sky-400 mx-4 my-3 p-3 bg-indigo-600">
                         <h1 class="text-xl font-mono mb-1">- Igor Rocha -</h1>
                         <div class="flex flex-row">
-                        <img src="igor.png" alt="" height="auto" width="30%" class="rounded-3xl"><a href="https://github.com/IgorRM15"></a></img>
-                        <div class="flex-col">
+                        <img src="igor.png" alt="" height="auto" width="100%" class="rounded-3xl max-w-48 max-h-48">
+                        <div class="flex-col ml-3 p-3 bg-indigo-950 border-4 border-indigo-400 rounded-md">
                             <p class="mx-3 text-left">Full-Stack do grupo, Dev-Ops. Sei fazer Expo, React, Node.JS, HTML, CSS, JavaScript, Angular,
                                 PHP e MySQL.
                             </p>
@@ -99,35 +100,35 @@
                     <div class="border border-red-400 mx-4 my-3 p-3 bg-red-700">
                         <h1 class="text-xl font-mono mb-1">- Jonathan Dias -</h1>
                         <div class="flex flex-row">
-                            <div class="flex-col">
+                            <div class="flex-col mr-3 p-3 bg-red-950 border-4 border-red-400 rounded-md">
                                 <p class="mx-3 text-left">Lider do Back-End. Sou um desenvolvedor capaz de fazer aplicações E2E, utilizando tecnologias como Angular, Node.JS,
                                     TypeScript, Firebase, MongoDB e etc. Eu sei que tenho muito a aprender, mas estou sempre disposto à ir atrás de todos os meios para me aprimorar.
                                 </p>
                                 <p class="mx-3 mt-3 text-left">Fora da área de programação, eu gosto de ler, tocar músicas em meu violão e cantar.
                                 </p>
                             </div>
-                        <img src="jonathan.jpg" alt="" height="auto" width="30%" class="rounded-3xl">
+                        <img src="jonathan.jpg" alt="" height="auto" width="100%" class="rounded-3xl max-w-48 max-h-48">
                         </div>
                     </div>
 
                     <div class="border border-red-400 mx-4 my-3 p-3 bg-red-700">
                         <h1 class="text-xl font-mono mb-1">- João Victor -</h1>
                         <div class="flex flex-row">
-                            <div class="flex-col">
+                            <div class="flex-col mr-3 p-3 bg-red-950 border-4 border-red-400 rounded-md">
                                 <p class="mx-3 text-left">Desenvolvedor Back-End e Designer. Eu tenho noção de Firebase, MongoDB, MySQL, JavaScript, TypeScript e HTML. Também tenho
                                     noção básica de PHP, Angular e noção intermediária de CSS. Além disso, fiz os designs de nossos projetos aqui na CODETATIO.
                                 </p>
                                 <p class="mx-3 mt-3 text-left">Fora da área de programação, Eu fazia nadação como hobby, gosto de ler e sou um apreciador de música em geral.
                                 </p>
                             </div>
-                        <img src="joao.png" alt="" height="auto" width="30%" class="rounded-3xl">
+                        <img src="joao.png" alt="" height="auto" width="100%" class="rounded-3xl max-w-48 max-h-48">
                         </div>
                     </div>
 
                     <div class="border border-red-400 mx-4 my-3 p-3 bg-rose-700">
                         <h1 class="text-xl font-mono mb-1">- Jhonas Rodrigues -</h1>
                         <div class="flex flex-row">
-                            <div class="flex-col">
+                            <div class="flex-col mr-3 p-3 bg-rose-950 border-4 border-rose-400 rounded-md">
                                 <p class="mx-3 text-left">Gerente e Lider da CODETATIO. Lidero tanto o Front-End quanto o Back-End. Eu tenho conhecimentos referente a HTML, CSS,
                                     Node.JS, TypeScript, Gol, sei utilizar Frameworks como React e React Native, também sei coisas referente ao MongoDB e Firebase além de fazer
                                     os conceitos iniciais do projeto e o cronograma para todos os membros.
@@ -135,7 +136,7 @@
                                 <p class="mx-3 mt-3 text-left">Fora da área de programação, eu amo cozinhar, ler, ouvir música e sou Barman em tempo livre.
                                 </p>
                             </div>
-                        <img src="jhonas.png" alt="" height="auto" width="30%" class="rounded-3xl">
+                        <img src="jhonas.png" alt="" height="auto" width="100%" class="rounded-3xl max-w-48 max-h-48 align-middle">
                         </div>
                     </div>
                 </div>
