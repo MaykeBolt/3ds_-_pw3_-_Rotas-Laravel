@@ -31,6 +31,7 @@ Route::middleware('auth')->group(function () {
 
 Route::get('/aboutus', 'App\Http\Controllers\AboutUsController@mainAboutUs');
 Route::get('/contact', 'App\Http\Controllers\ContactController@mainContact');
+Route::get('/news', 'App\Http\Controllers\NewsController@mainNews');
 Route::get('/home', 'App\Http\Controllers\MainPageController@main')->name('screens.home');
 Route::get('/404', 'App\Http\Controllers\FourOFourController@notfound')->name('screens.404');
 Route::get('/test', function (){return 'amogus';});

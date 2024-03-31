@@ -4,40 +4,63 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>CODETATIO</title>
+    <title>ETEC Zona Leste</title>
     @vite('resources/css/app.css') <!-- AQUI ATIVA O TAILWIND CSS AO PROJETO. -->
 </head>
-<body class="bg-slate-200">
-    <header class="flex flex-row bg-gradient-to-r from-blue-900 to-emerald-400 py-6">
+<body class="bg-cover bg-blend-color" style="background-image: url('etec/895d682d-b2b3-458e-a9a8-30cae4d3e38c-1.png'); background-color: rgba(8, 8, 8, 0.459)">
+    <header class="flex flex-row bg-gradient-to-r from-red-100 via-yellow-50 to-blue-100 py-6 items-center">
         <h1 class="bg-gradient-to-br from-blue-300 to-blue-500 text-transparent bg-clip-text font-mono 
         text-2xl font-bold pl-3
-        hover:from-cyan-300 hover:via-cyan-300 hover:to-cyan-300"><a href="/home">CODETATIO</a></h1>
+        hover:from-red-600 hover:via-red-700 hover:to-red-800"><a href="/home">
+            <img src="etec/logo-etec.png" alt="" class="w-20 h-auto">
+        </a></h1>
         <div class="ml-5">
             <button class="rounded-md p-1 font-mono mr-3">
-                <a class="bg-gradient-to-r from-cyan-400 via-sky-400 to-cyan-400 text-transparent bg-clip-text
-                hover:from-cyan-300 hover:via-cyan-300 hover:to-cyan-300" 
+                <a class="hover:text-red-700 text-black" 
                 href="/aboutus">Sobre Nós</a>
             </button>
+            <button class="rounded-md p-1 font-mono mr-3">
+                <a class="hover:text-red-700 text-black" 
+                href="/contact">Contato</a>
+            </button>
             <button class="rounded-md p-1 font-mono">
-                <p class="bg-gradient-to-r from-sky-300 via-cyan-300 to-sky-300 text-transparent bg-clip-text" 
-                >Contato</p>
+                <a class="hover:text-red-700 text-black" 
+                href="/news">Noticias</a>
             </button>
         </div>
         <div class="absolute right-0 pr-3">
-            <Button class="bg-white rounded-md p-1 font-mono"> <a href="/register">Cadastrar</a> </Button>
-            <Button class="bg-white rounded-md p-1 font-mono"> <a href="/login">Logar</a> </Button>
+            <Button class="bg-gradient-to-r from-red-700 via-red-800 to-red-700 rounded-md p-1 font-mono
+             hover:text-white text-black"> 
+                <a href="/register">Cadastrar</a> </Button>
+            <Button class="bg-gradient-to-r from-red-700 via-red-800 to-red-700
+            rounded-md p-1 font-mono hover:text-white text-black"> 
+                <a href="/login">Logar</a> </Button>
         </div>
-    </header>    
+    </header>
 
     <main class="mx-3 my-3">
-        <div class="bg-gradient-to-br from-blue-700 to-emerald-400 rounded-lg px-3 py-3">
+        <div class="bg-gradient-to-br from-yellow-700 via-yellow-500 to-yellow-700 rounded-lg px-3 py-3">
             <h3 class="text-center text-white text-2xl font-bold
             border-b-4 mx-32 rounded">Encontre-nos nas nossas Redes Sociais</h3>
             
+            <div class="my-4">
+                <h1 class="text-white text-xl">Facebook:</h1>
+                <a href="https://www.facebook.com/Eteczonalesteoficial"
+                class="hover:text-blue-500 font-mono">https://www.facebook.com/Eteczonalesteoficial</a>
+            </div>
+                
+            <div class="my-4">
+                <h1 class="text-white text-xl">Youtube:</h1>
+                <a href="https://www.youtube.com/@etecdazonaleste2949"
+                class="hover:text-blue-500 font-mono">https://www.youtube.com/@etecdazonaleste2949</a>
+            </div>
+                
+            <div class="my-4">
                 <h1 class="text-white text-xl">Instagram:</h1>
-                <a href="https://www.instagram.com/codetatio/"
-                class="text-cyan-300 hover:text-emerald-200">https://www.instagram.com/codetatio/</a>
-            
+                <a href="https://www.instagram.com/eteczonalesteoficial/"
+                class="hover:text-blue-500 font-mono">https://www.instagram.com/eteczonalesteoficial/</a>
+            </div>
+                
         </div>
     </main>
 </body>
